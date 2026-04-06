@@ -11,9 +11,9 @@
   <a href="mailto:Abubakar46516@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-- [cite_start]🚀 Currently working on **Agri Vision** — an AI-powered Flutter app for Wheat Farmers[cite: 41].
-- [cite_start]🌱 Learning **Full Stack development with Node.js** to build scalable Flutter backends[cite: 11].
-- [cite_start]💬 Ask me about **Flutter, Dart, Firebase, and Jetpack Compose**[cite: 9, 10, 20].
+- 🚀 Currently working on **Agri Vision** — an AI-powered Flutter app for Wheat Farmers.
+- 🌱 Learning **Full Stack development with Node.js** to build scalable Flutter backends.
+- 💬 Ask me about **Flutter, Dart, Firebase, and Jetpack Compose**.
 - ⚡ Fun fact: **I strive for pixel-perfect UI and clean code architecture.**
 
 <h3 align="left">Languages and Tools:</h3>
