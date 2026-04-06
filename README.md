@@ -28,17 +28,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-### 🛠️ Featured Project: Agri Vision
-[cite_start]**Agri Vision** is a Flutter application designed for wheat farmers in Pakistan.
-- [cite_start]**Features:** AI-based wheat disease detection, Urdu LLM chatbot, and serverless backend[cite: 41].
-- [cite_start]**Tech Stack:** Flutter, Python, TensorFlow, and Google Cloud[cite: 41].
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar022&show_icons=true&locale=en&layout=compact" alt="abubakar022" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar022&show_icons=true&locale=en" alt="abubakar022" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar022&" alt="abubakar022" />
